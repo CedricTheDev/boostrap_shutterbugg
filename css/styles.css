@@ -1,0 +1,50 @@
+/*font-family: 'Open Sans', sans-serif;*/
+div.container{
+	max-width: 1000px;
+}
+
+div.main{
+	background-image: url('../images/intro.jpg');
+	height: 560px;
+	background-size:cover;
+	background-attachment: fixed;
+	padding: 5%;
+
+}
+div.main h1{
+	font-family: 'open sans', sans-serif;
+	font-size: 5.5em;
+}
+div.main h2{
+	margin-bottom: 6%;
+}
+
+a.btn{
+	background-color: lightblue;
+	border: 4px solid black;
+	border-radius: 20px;
+	font-size: 1.3em;
+	text-transform: uppercase;
+
+}
+
+div.section{
+	padding-top: 3%;
+}
+
+div.row h1{
+
+}
+
+div.row p{
+	font-size: 1.8em;
+}
+
+div#store{
+	text-align: center;
+	padding-top: 3%;
+}
+
+div#store img{
+	width: 200px;
+}
